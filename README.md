@@ -1,2 +1,2 @@
-# niudan
-扭蛋
+# magicbox
+盲盒
